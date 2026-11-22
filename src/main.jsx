@@ -36,7 +36,7 @@ import "./styles.css";
    PERSONAL LINKS
 ========================================================= */
 
-const GITHUB = "https://github.com/sumyaopratar123";
+const GITHUB = "https://github.com/sumit18ade";
 const LINKEDIN = "https://www.linkedin.com/in/sumitade3755";
 const LEETCODE = "https://leetcode.com/u/5qVkMzkpQ7/";
 const HACKERRANK = "https://www.hackerrank.com/profile/sumitade324";
